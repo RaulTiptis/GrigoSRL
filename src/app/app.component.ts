@@ -38,7 +38,7 @@ window.addEventListener('DOMContentLoaded', event => {
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'grigoSRL';
+  title = 'GRIGCAD SOLUTIONS SRL';
 
   ngOnInit() {
     scripts();
